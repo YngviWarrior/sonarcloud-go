@@ -8,16 +8,17 @@ func main() {
 
 func sum(a, b int) int {
 	return a + b
+
 }
 
-func sumX(a, b int) int {
-	return a + b + a
-}
+// func sumX(a, b int) int {
+// 	return a + b + a
+// }
 
-func sub(a, b int) int {
-	return a - b
-}
+// func sub(a, b int) int {
+// 	return a - b
+// }
 
-func times(a, b int) int {
-	return a * b
-}
+// func times(a, b int) int {
+// 	return a * b
+// }
